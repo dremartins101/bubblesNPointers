@@ -23,3 +23,11 @@ int main(){
 
   return(0);
 } // end main
+
+int printValues(int*){
+	printf("
+}
+
+int swap(){
+
+}
