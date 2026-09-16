@@ -10,7 +10,7 @@ int main(){
   printf("Before: \n");
   printValues(values);
 
-  // test swap
+ /* test swap
   int x = 3;
   int y = 5;
   printf("x: %d, y: %d \n", x, y);
@@ -20,14 +20,8 @@ int main(){
   sort(values);
   printf("After: \n");
   printValues(values);
-
+*/
   return(0);
 } // end main
-
-int printValues(int*){
-	printf("
-}
-
-int swap(){
-
-}
+	
+int printValues(int*)
